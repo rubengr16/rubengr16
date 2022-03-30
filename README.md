@@ -5,6 +5,3 @@ in the Technical University of Madrid -[UPM](https://www.etsisi.upm.es/)-.
 
 Meanwhile, I have been studying at [42 Madrid](https://www.42madrid.com/) since
 August of 2021.
-
-[![rubengr16 42 stats](https://badge42.herokuapp.com/api/stats/rgallego)](https://github.com/rubengr16)
-
